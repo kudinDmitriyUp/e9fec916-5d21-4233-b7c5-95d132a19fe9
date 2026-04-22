@@ -71,7 +71,7 @@ export default function App() {
         {
           title: "Fresh Daily",
           description: "Flowers picked at their peak for longest lasting beauty.",
-          imageSrc: "http://img.b2bpic.net/free-photo/female-florist-promoting-mixed-flower-basket_114579-2775.jpg",
+          imageSrc: "https://pixabay.com/get/g575b31086e3401a46a88ccdeab68dad377b4711cf092a88b9d80c41102070c2a704e61681ef4c5c650602fc35a7f563af6388f78718ae8fd18494e29a9db29b0_1280.jpg?id=2132874",
         },
         {
           title: "Handpicked Selections",
